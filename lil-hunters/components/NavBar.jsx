@@ -14,7 +14,7 @@ const NavBar = () => {
         />
       </Link>
       <div className="flex-1">
-        <a className="btn btn-ghost normal-case text-xl">Lil Bounty Hunters</a>
+        <a className="btn btn-ghost normal-case text-xl">Bounty</a>
       </div>
       <div className="flex-none">
         <ul className="menu menu-horizontal px-1">

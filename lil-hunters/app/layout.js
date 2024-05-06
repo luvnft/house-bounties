@@ -3,7 +3,7 @@ import NavBar from "@/components/NavBar";
 import "./globals.css";
 
 export const metadata = {
-  title: "Lil Bounty Hunters",
+  title: "Bounty",
   description: "A learner project by extrapockets and bitdern",
 };
 
